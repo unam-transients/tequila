@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QNoémie installed QHY's EZCAP software on her Mac.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe sensor showed up as a “Cypress WestBridge”.\\E$"}
