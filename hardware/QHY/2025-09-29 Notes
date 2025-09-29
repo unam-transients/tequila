@@ -1,0 +1,5 @@
+# 2025-09-29 Notes
+
+Alan (CU) and Noémie (Ensenada) working with the RPi and the QHY sensor.
+
+We had the USB flash drive connected to the blue USB3 bus. Whenever we connected the QHY sensor to the blue bus we had problems with the RPi. Specifically, Alan was no longer able to run command and we were not able to connect by SSH. Alan suspects the current drawn by the QHY was sufficient that the USB memory no longer worked. We apparently fixed this by connecting the USB memory to the white USB2 bus.
