@@ -7,5 +7,6 @@ The project is lead by [Noémie Globus](https://github.com/orgs/unam-transients/
 - [Issues](https://github.com/orgs/unam-transients/projects/8)
 - Repositories:
   - [sangrita](https://github.com/unam-transients/sangrita)
+  - [tcs](https://github.com/unam-transients/tcs)
   - [tequila](https://github.com/unam-transients/tequila)
   - [tequila-science-and-design](https://github.com/unam-transients/tequila-science-and-design)
